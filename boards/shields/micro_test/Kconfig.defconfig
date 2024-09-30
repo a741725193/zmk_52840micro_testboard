@@ -1,0 +1,6 @@
+if SHIELD_MICRO_TEST
+
+config ZMK_KEYBOARD_NAME
+    default "MICRO_TEST"
+
+endif
